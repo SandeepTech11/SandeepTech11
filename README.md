@@ -71,10 +71,10 @@ An end-to-end data pipeline simulating transaction ingestion. It executes ETL pr
 
 ### 4. Employee & Project Performance Dashboard
 An interactive multi-dataset analytics engine featuring HR/Employee metric telemetry, dynamic KPI filters, automated dataset ingestion, and visual chart reporting.
-- **Tools**: Python, Flask, SQLite3, SQL, Pandas, HTML5, CSS3
+- **Tools**: Python, Flask, SQLite3, SQL, Pandas, HTML5, CSS3, JavaScript
 - **Repo Link**: [SandeepTech11/Employee-Project-Performance-Dashboard](https://github.com/SandeepTech11/Employee-Project-Performance-Dashboard)
 
-[![Employee & Project Performance Dashboard](https://raw.githubusercontent.com/SandeepTech11/Employee-Project-Performance-Dashboard/main/docs/dashboard_preview.png)](https://github.com/SandeepTech11/Employee-Project-Performance-Dashboard)
+[![Employee & Project Performance Dashboard](assets/dashboard_preview.png)](https://github.com/SandeepTech11/Employee-Project-Performance-Dashboard)
 
 ### 5. Transformer-based Recruitment Fraud Detection
 A natural language processing app classifying online job postings as genuine or fraudulent using a fine-tuned deep learning model and interactive dashboard telemetry.
