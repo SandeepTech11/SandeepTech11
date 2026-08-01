@@ -69,14 +69,21 @@ An end-to-end data pipeline simulating transaction ingestion. It executes ETL pr
 
 [![E-Commerce Pipeline Dashboard](https://raw.githubusercontent.com/SandeepTech11/ecommerce-pipeline/main/assets/dashboard_preview.png)](https://github.com/SandeepTech11/ecommerce-pipeline)
 
-### 4. Transformer-based Recruitment Fraud Detection
+### 4. Employee & Project Performance Dashboard
+An interactive multi-dataset analytics engine featuring HR/Employee metric telemetry, dynamic KPI filters, automated dataset ingestion, and visual chart reporting.
+- **Tools**: Python, Flask, SQLite3, SQL, Pandas, HTML5, CSS3
+- **Repo Link**: [SandeepTech11/Employee-Project-Performance-Dashboard](https://github.com/SandeepTech11/Employee-Project-Performance-Dashboard)
+
+[![Employee & Project Performance Dashboard](https://raw.githubusercontent.com/SandeepTech11/Employee-Project-Performance-Dashboard/main/docs/dashboard_preview.png)](https://github.com/SandeepTech11/Employee-Project-Performance-Dashboard)
+
+### 5. Transformer-based Recruitment Fraud Detection
 A natural language processing app classifying online job postings as genuine or fraudulent using a fine-tuned deep learning model and interactive dashboard telemetry.
 - **Tools**: Python, PyTorch, DistilBERT, Streamlit, Plotly, Scikit-Learn
 - **Repo Link**: [SandeepTech11/Enhance-online-recruitment-fraud-dection-using-transform-based-deep-learning-model](https://github.com/SandeepTech11/Enhance-online-recruitment-fraud-dection-using-transform-based-deep-learning-model)
 
 [![Recruitment Fraud Detection Dashboard](https://raw.githubusercontent.com/SandeepTech11/Enhance-online-recruitment-fraud-dection-using-transform-based-deep-learning-model/main/assets/detector_dashboard.png)](https://github.com/SandeepTech11/Enhance-online-recruitment-fraud-dection-using-transform-based-deep-learning-model)
 
-### 5. SQL Mini Project
+### 6. SQL Mini Project
 A compilation of advanced analytical queries demonstrating proficiency in CTEs, Window Functions (Row Number, Rank, Lead/Lag), and relational database optimizations.
 - **Tools**: PostgreSQL, SQL, Python
 - **Repo Link**: [SandeepTech11/sql-mini-project](https://github.com/SandeepTech11/sql-mini-project)
